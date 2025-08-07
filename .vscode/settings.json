@@ -1,0 +1,12 @@
+{
+ "emmet.includeLanguages": {
+  "django-html": "html"
+},
+"files.associations": {
+  "*.html": "django-html"
+},
+"html.autoClosingTags": true,
+"editor.autoClosingBrackets": "always",
+"editor.autoClosingQuotes": "always"
+
+}
